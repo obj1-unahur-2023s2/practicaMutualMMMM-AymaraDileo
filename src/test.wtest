@@ -1,0 +1,8 @@
+import Viajes.*
+import Socios.*
+
+test "testX" {
+
+	assert.that(true)
+
+}
